@@ -1,6 +1,1 @@
-[
-  {
-    "version": "0.1.0",
-    "url": "https://github.com/cult-relics/registry/releases/download/foobar-0.1.0/foobar-0.1.0.relic"
-  }
-]
+{"url":"https://github.com/cult-relics/registry/releases/download/foobar-0.1.0/foobar-0.1.0.relic","version":"0.1.0"}
