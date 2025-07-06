@@ -1,0 +1,1 @@
+{"name":"somelib","description":"This is a dummy library to test dependency tree","license":"MIT","authors":["Bo Maryniuk"],"repository":"https://github.com/you/somelib","documentation":"https://somelib.readthedocs.io/en/latest/","homepage":"https://somelib.readthedocs.io/en/latest/","keywords":["your","keywords","here"],"categories":["core"]}
